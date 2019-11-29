@@ -28,5 +28,4 @@ class App < Sinatra::Base
 
     @number1.send(@operation,@number2)
   end 
- end  
 end 
